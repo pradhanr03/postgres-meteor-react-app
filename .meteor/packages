@@ -1,0 +1,34 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+less
+accounts-password-pg-driver
+accounts-password
+reactive-var
+meteorhacks:npm
+cosmos:browserify
+
+
+npm-container
+ecmascript
+standard-minifiers
+
+meteor-base
+mobile-experience
+
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+react
+
+simple:pg
